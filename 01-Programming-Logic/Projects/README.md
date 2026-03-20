@@ -48,8 +48,3 @@ On macOS, install Apple Command Line Tools:
 ```bash
 xcode-select --install
 ```
-
-## Notes for Submission
-- Put this folder inside the final submission folder named with group roll numbers.
-- Zip the roll-number folder and submit as required.
-- Keep code original (no plagiarism).
